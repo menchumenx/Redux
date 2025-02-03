@@ -5,8 +5,9 @@ Whether you're new to Redux or looking to deepen your knowledge, this repository
 
 🚀 Features:
 
-📖 In-depth documentation on Redux fundamentals and advanced topics.
-🛠 Code snippets & examples demonstrating real-world use cases.
-🎯 Redux Toolkit, Middleware, Thunks, and other essential patterns.
-🔍 Best practices for state management in modern applications.
+- 📖 In-depth documentation on Redux fundamentals and advanced topics.
+- 🛠 Code snippets & examples demonstrating real-world use cases.
+- 🎯 Redux Toolkit, Middleware, Thunks, and other essential patterns.
+- 🔍 Best practices for state management in modern applications.
+  
 📢 Contributions and improvements are welcome!
